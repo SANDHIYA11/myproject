@@ -1,0 +1,6 @@
+N=int(input("Enter the number:")) 
+C=0
+while(N>0): 
+N=N//10
+C=C+1
+print(C) 
