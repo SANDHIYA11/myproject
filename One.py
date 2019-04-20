@@ -1,0 +1,21 @@
+s=int(input("Enter the number:")) 
+if(s==1): 
+print("One") 
+if(s==2): 
+print("Two") 
+if(s==3): 
+print("Three") 
+if(s==4): 
+print("Four") 
+if(s==5): 
+print("Five") 
+if(s==6): 
+print("Six") 
+if(s==7): 
+print("Seven") 
+if(s==8): 
+print("Eight") 
+if(s==9): 
+print("Nine") 
+if(s==10): 
+print("Ten") 
